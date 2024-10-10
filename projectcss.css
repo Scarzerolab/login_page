@@ -1,0 +1,123 @@
+.container{
+    background-image: url(https://wallpaperset.com/w/full/e/3/0/26675.jpg);
+
+    padding: 30px 0;
+    width: 100%;
+}
+
+.loginbox{
+    margin: 25px auto;
+    width: 40%;
+    
+
+    color: white;
+    box-shadow: 7px 7px 5px rgba(187, 185, 185, 0.699);
+}
+
+.logintop{
+    padding-left: 20px;
+    padding-bottom: 5px;
+    padding-top: 20px;
+
+    background-color: rgba(255, 255, 255, 0.047);
+    backdrop-filter: blur(2px);
+}
+
+.topheading h1{
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+.topheading p{
+    margin: 0;
+    margin-top: 10px;
+}
+
+.topheading{
+    padding: 120px 20px;
+}
+
+.loginbot{
+    background-color: white;
+
+    color: black;
+
+    margin: auto;
+    padding: 25px 0px;
+    text-align: center;
+}
+
+.botheading{
+    font-size: 15px;
+
+    padding: 20px;
+}
+
+#Username{
+    padding: 5px;
+    padding-left: 60px;
+    margin-bottom: 10px;
+    width: 40%;
+
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/User_icon_2.svg/1024px-User_icon_2.svg.png);
+    background-size: 5%;
+    background-repeat: no-repeat;
+    background-position: 20px;
+    background-color: black;
+
+    color: white;
+
+    border-radius: 20px;
+    border: 0;
+}
+
+#Password{
+    padding: 5px;
+    padding-left: 60px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 40%;
+
+    background-image: url(https://th.bing.com/th/id/R.bbb5c1669ebdb305d41e86edbbc3b29a?rik=%2b8C5tD3u8%2bCRUg&riu=http%3a%2f%2ficons.iconarchive.com%2ficons%2fpaomedia%2fsmall-n-flat%2f1024%2flock-icon.png&ehk=0jdrUwxwlPE5jc1EQuyvqdubQ1%2bJcpVEnVaIgvbgnNQ%3d&risl=&pid=ImgRaw&r=0);
+    background-size: 4%;
+    background-repeat: no-repeat;
+    background-position: 22px;
+    background-color: black;
+
+    color: white;
+
+    border-radius: 20px;
+    border: 0;
+}
+
+.rememberforgot{
+    margin: 10px;
+}
+
+#rememberme:checked{
+    background-color: green;
+}
+
+#forgotpass{
+    margin-left: 18%;
+
+    text-decoration: none;
+    color: black;
+}
+
+#login_button{
+    padding: 5px 25px;
+
+    background-color: black;
+
+    color: white;
+    text-decoration: bold;
+
+    border: 0;
+}
+
+#login_button:hover{
+    background-color: rgb(34, 33, 33);
+    border: 0;
+    
+}
